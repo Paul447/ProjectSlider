@@ -25,6 +25,7 @@ text-transform: uppercase;
 color: #313131 ;
 text-align: center;
 margin: 0px;
+margin-bottom: 50px;
 }
 .product-box{
 display: flex;
